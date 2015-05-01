@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "Highbridge Creative, Inc. front-end development standards.",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^9.0.3",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-sourcemaps": "^1.5.1",
+    "gulp-util": "^3.0.4",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^2.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:highbridge/dev-standards.git"
+  },
+  "author": "Michael Roth <mroth@highbridgecreative.com>"
+}
